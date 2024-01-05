@@ -1,10 +1,5 @@
 venv
-/venv
 
+# PyCharm files
+*.iml
 .idea
-/.idea
-
-*.pyc
-*.pyo
-__pycache__
-```
